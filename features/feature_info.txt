@@ -1,0 +1,4 @@
+This folder stores precomputed image feature embeddings
+extracted using Xception CNN during training.
+
+Actual feature files are not included due to size.
