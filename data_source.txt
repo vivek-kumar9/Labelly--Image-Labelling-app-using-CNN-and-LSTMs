@@ -1,0 +1,9 @@
+Dataset: Flickr8k Dataset
+Source: https://github.com/jbrownlee/Datasets/releases/tag/Flickr8k
+
+Contents:
+- 8,000 images
+- 5 captions per image (40,000 total)
+
+Note:
+Dataset is not included in this repository due to size and licensing constraints.
