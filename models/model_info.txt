@@ -1,0 +1,7 @@
+Trained CNN-LSTM image captioning model.
+Encoder: Xception (ImageNet)
+Decoder: LSTM
+Dataset: Flickr8k
+Metric: BLEU-1 > 0.5
+
+Model weights not included due to size.
