@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Virtual environments
+.env
+venv/
+
+# Large / generated ML files
+*.h5
+*.pkl
+*.pickle
+*.zip
+
+# Datasets
+data/Flickr8k_Dataset/
+data/Flickr8k_text/
